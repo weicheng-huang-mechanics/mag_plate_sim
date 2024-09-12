@@ -1,4 +1,9 @@
-# A computational software for the nonlinear dynamics of magnetoelastic beams
+# A computational software for the nonlinear dynamics of magnetoelastic plates/shells
+
+# Overview
+This project focused on the nonlinear dynamics of magnetically-actuated elastic plate/shell systems.
+
+<br/><img src='demo.gif' width="600">
 
 To run this code, you should have a Linux Ubuntu system
 
